@@ -1,0 +1,9 @@
+#include <stdio.h> 
+int main() {
+    printf("Spring "); 
+    printf("Summer "); 
+    printf("Autumn "); 
+    printf("Winter"); 
+
+    return 0; 
+}
